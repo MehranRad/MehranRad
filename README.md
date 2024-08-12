@@ -1,12 +1,14 @@
-# Hi there... 👋 I am Mehran
+# Mehran Zamanirad
 
-## Personal Information
-- **Full Name:** Mehran Zamanirad
-- **Specialization:** Software Developer
-- **Location:** [Your City, Country]
-- **Born:** [Your Birthdate]
-- **Email:** [Your Email]
-- **Website:** [Your Website URL]
+**Software Developer**
+
+![Mehran's Photo](https://example.com/your-photo.jpg) <!-- لینک عکس خود را اینجا جایگزین کن -->
+
+**Location:** [Your City, Country]  
+**Email:** [Your Email]  
+**Website:** [Your Website URL]
+
+---
 
 ## Skills
 
@@ -30,12 +32,17 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
+---
+
 ## Interests & Goals
 - 🚀 **Passionate About:** Building scalable and efficient software solutions.
 - 📚 **Learning:** Cloud Computing and Machine Learning
 
 ## Education
-- [Your Degree and University]
+- **Degree:** [Your Degree]  
+- **University:** [Your University]
 
 ## Projects
-- [Link to Your Projects]
+- **Portfolio:** [Link to Your Projects]
+
+---
