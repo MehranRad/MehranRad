@@ -1,6 +1,6 @@
-# Mehran Zamanirad
+                                                                                               ##Mehran Zamanirad
 
-**Software Developer**
+**Artificial intelligence specialist**
 
 **Location:** Rafsanjan , Iran 
 **Email:** mehran.radddd@gmail.com
