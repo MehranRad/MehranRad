@@ -2,7 +2,6 @@
 
 **Artificial intelligence specialist**
 
-**Location:** Rafsanjan , Iran 
 **Email:** mehran.radddd@gmail.com
 
 ---
