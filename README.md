@@ -1,16 +1,25 @@
 # Mehran Zamanirad
 
-**Artificial intelligence specialist👨‍💻**
+**Software Developer**
 
-**Location:** Rafsanjan , Iran
-**Email:** mehran.radddd@gmail.com  
+![Mehran's Photo](https://example.com/your-photo.jpg) <!-- لینک عکس خود را اینجا جایگزین کن -->
+
+**Location:** [Your City, Country]  
+**Email:** [Your Email]  
+**Website:** [Your Website URL]
+
 ---
 
 ## Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=blue&style=for-the-badge) <!-- رنگ زرد به عنوان پس زمینه -->
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+
+### Frameworks
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
