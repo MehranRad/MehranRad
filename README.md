@@ -13,7 +13,6 @@
 
 ### IDE & Notebooks
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)  
-*(Using VS Code notebooks instead of Jupyter)*
 
 ### AI & Machine Learning Libraries
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)  
