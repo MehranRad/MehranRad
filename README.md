@@ -28,6 +28,7 @@
 
 ---
 ###  Certificates
-- [Faradars Certificate – Course Title](https://faradars.org/verify/2A7014AC?lang=en)
+<img width="1783" height="1263" alt="image" src="https://github.com/user-attachments/assets/b6344508-a4af-415e-aa1b-61ffb78df52e" />
+
 ---
 
