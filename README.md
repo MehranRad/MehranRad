@@ -27,5 +27,7 @@
 - **Vali-E-Asr Rafsanjan University**
 
 ---
-[certificate (3).pdf](https://github.com/user-attachments/files/21744139/certificate.3.pdf)
+###  Certificates
+- [Faradars Certificate – Course Title](https://faradars.org/verify/2A7014AC?lang=en)
+---
 
