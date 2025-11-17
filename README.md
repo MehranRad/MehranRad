@@ -10,8 +10,10 @@
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=blue&style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
 
 ### IDE & Notebooks
+
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)  
 
 ### AI & Machine Learning Libraries
