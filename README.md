@@ -10,11 +10,10 @@
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=blue&style=for-the-badge)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
 
-### IDE & Notebooks
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)  
+### IDEs & Notebooks
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/-PyCharm-0A5EAB?logo=pycharm&logoColor=white&style=for-the-badge)
 
 ### AI & Machine Learning Libraries
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)  
@@ -29,8 +28,6 @@
 - **Vali-E-Asr Rafsanjan University**
 
 ---
-###  Certificates
-<img width="1783" height="1263" alt="image" src="https://github.com/user-attachments/assets/b6344508-a4af-415e-aa1b-61ffb78df52e" />
 
----
-
+### Certificates
+<img width="700" src="https://github.com/user-attachments/assets/b6344508-a4af-415e-aa1b-61ffb78df52e" />
