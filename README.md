@@ -1,6 +1,6 @@
 # Mehran Zamanirad
 
-### Artificial Intelligence Specialist | Deep Learning & Machine Learning Enthusiast
+### Artificial Intelligence Specialist | Deep Learning, Machine Learning & LLM/Transformers Enthusiast
 
 📧 mehran.radddd@gmail.com
 
