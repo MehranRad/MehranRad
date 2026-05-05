@@ -31,3 +31,4 @@
 
 ### Certificates
 <img width="700" src="https://github.com/user-attachments/assets/b6344508-a4af-415e-aa1b-61ffb78df52e" />
+https://faradars.org/verify/D5D0FD88
