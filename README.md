@@ -1,4 +1,4 @@
-# Mehran Zamanirad
+[certificate.pdf](https://github.com/user-attachments/files/30453570/certificate.pdf)# Mehran Zamanirad
 ### Machine Learning & Data Automation Enthusiast | Exploring Deep Learning
 
 📧 mehran.radddd@gmail.com
@@ -38,4 +38,8 @@ Transformer architectures & LLM theory (conceptual understanding — how attenti
 ---
 
 ## 📜 Certificates
-<img width="700" src="https://github.com/user-attachments/assets/b6344508-a4af-415e-aa1b-61ffb78df52e" />
+<p float="left">
+  <img width="345" src="https://github.com/user-attachments/assets/b6344508-a4af-415e-aa1b-61ffb78df52e" />
+  <img width="2982" height="2122" alt="certificate" src="https://github.com/user-attachments/assets/22c69721-b1d9-4569-a205-01d8ef8ec2a5" />
+</p>
+
