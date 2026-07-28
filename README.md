@@ -41,5 +41,5 @@ Transformer architectures & LLM theory (conceptual understanding — how attenti
 <p float="left">
   <img width="700" src="https://github.com/user-attachments/assets/b6344508-a4af-415e-aa1b-61ffb78df52e" />
 </p>
-<img width="700" height="2122" alt="certificate" src="https://github.com/user-attachments/assets/22c69721-b1d9-4569-a205-01d8ef8ec2a5" />
+<img width="700" alt="certificate" src="https://github.com/user-attachments/assets/22c69721-b1d9-4569-a205-01d8ef8ec2a5" />
 
